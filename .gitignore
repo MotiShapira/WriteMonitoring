@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+# local data and output
+*.db
+*.db-journal
+*.log
+*.csv
+reports/
+# never commit credentials
+config.json
